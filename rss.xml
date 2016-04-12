@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Autobus Cycling]]></title>
         <description><![CDATA[Autobus Cycling]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/autobus-cycling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 12:41:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 12:57:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/autobus-cycling/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e36c6fd8-4b53-4e2f-b5c6-60ea38b1e6d7.jpg">]]></description>
+            <link>https://thegrid.ai/autobus-cycling/7eb55df6-fe56-40ef-a64e-4c745b5eb446/index.html</link>
+            <guid isPermaLink="false">7eb55df6-fe56-40ef-a64e-4c745b5eb446</guid>
+            <pubDate>Tue, 12 Apr 2016 12:57:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Autobus]]></title>
             <description><![CDATA[<article><h1>The Autobus</h1><p> The autobus in cycling terminology is the name given to the group of cyclists in a road race who form a large group behind the leading peloton. The autobus typically forms on mountain stages when non-climbers fall off the back of the peloton during the longer climbs. Gradually as more riders drop from the peloton the autobus forms at the back end of the race. These riders are typically unconcerned about their finishing positions in the mountain stages. Their focus is on beating the elimination time to ensure survival in a multi-stage race such as the Tour de France. Due to the shared interest of surviving the stage, the mood in the autobus has a greater sense of fellowship than in the main peloton. Riders often assist one another with food and drinks despite riding for opposing teams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2735e5dd3722e9700136dd0bc816e6b0579d1213.jpg"></article>]]></description>
-            <link>undefinedthe-autobus/index.html</link>
+            <link>https://thegrid.ai/autobus-cycling/the-autobus/index.html</link>
             <guid isPermaLink="false">7055b541-b9c1-49e3-b35d-4a3a5f0fe53a</guid>
             <pubDate>Tue, 12 Apr 2016 12:41:07 GMT</pubDate>
         </item>
