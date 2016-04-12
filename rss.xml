@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Autobus Cycling]]></title>
+        <description><![CDATA[Autobus Cycling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 12:41:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Autobus]]></title>
+            <description><![CDATA[<article><h1>The Autobus</h1><p> The autobus in cycling terminology is the name given to the group of cyclists in a road race who form a large group behind the leading peloton. The autobus typically forms on mountain stages when non-climbers fall off the back of the peloton during the longer climbs. Gradually as more riders drop from the peloton the autobus forms at the back end of the race. These riders are typically unconcerned about their finishing positions in the mountain stages. Their focus is on beating the elimination time to ensure survival in a multi-stage race such as the Tour de France. Due to the shared interest of surviving the stage, the mood in the autobus has a greater sense of fellowship than in the main peloton. Riders often assist one another with food and drinks despite riding for opposing teams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2735e5dd3722e9700136dd0bc816e6b0579d1213.jpg"></article>]]></description>
+            <link>undefinedthe-autobus/index.html</link>
+            <guid isPermaLink="false">7055b541-b9c1-49e3-b35d-4a3a5f0fe53a</guid>
+            <pubDate>Tue, 12 Apr 2016 12:41:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
